@@ -1,0 +1,136 @@
+[25-May-2025 14:18:08 Europe/Berlin] Verificando foto do usuário: Array
+(
+    [nome] => LUCAS DA CRUZ BLANK
+    [email] => lucasblank1@outlook.com
+    [foto_perfil] => uploads/perfil/perfil_4.jpg
+)
+
+[25-May-2025 14:18:15 Europe/Berlin] Iniciando upload de foto
+[25-May-2025 14:18:15 Europe/Berlin] Dados do arquivo: Array
+(
+    [name] => lb.jpg
+    [full_path] => lb.jpg
+    [type] => image/jpeg
+    [tmp_name] => C:\xampp\tmp\phpCFEE.tmp
+    [error] => 0
+    [size] => 4772
+)
+
+[25-May-2025 14:18:15 Europe/Berlin] Caminho do arquivo: uploads/fotos/foto_4_1748175495.jpg
+[25-May-2025 14:18:15 Europe/Berlin] Tentando remover foto antiga: uploads/fotos/foto_4_1748175263.jpg
+[25-May-2025 14:18:15 Europe/Berlin] Tentando mover arquivo para: uploads/fotos/foto_4_1748175495.jpg
+[25-May-2025 14:18:15 Europe/Berlin] Arquivo criado com sucesso. Tamanho: 4772
+[25-May-2025 14:18:15 Europe/Berlin] Foto atualizada com sucesso no banco: foto_4_1748175495.jpg
+[25-May-2025 14:19:00 Europe/Berlin] Verificando foto do usuário: Array
+(
+    [nome] => LUCAS DA CRUZ BLANK
+    [email] => lucasblank1@outlook.com
+    [foto_perfil] => uploads/perfil/perfil_4.jpg
+)
+
+[25-May-2025 14:22:03 Europe/Berlin] Iniciando upload de foto
+[25-May-2025 14:22:03 Europe/Berlin] Dados do arquivo: Array
+(
+    [name] => lb.jpg
+    [full_path] => lb.jpg
+    [type] => image/jpeg
+    [tmp_name] => C:\xampp\tmp\php4BC8.tmp
+    [error] => 0
+    [size] => 4772
+)
+
+[25-May-2025 14:22:03 Europe/Berlin] Caminho do arquivo: uploads/perfil/perfil_4.jpg
+[25-May-2025 14:22:03 Europe/Berlin] Tentando remover foto antiga: uploads/perfil/perfil_4.jpg
+[25-May-2025 14:22:03 Europe/Berlin] Tentando mover arquivo para: uploads/perfil/perfil_4.jpg
+[25-May-2025 14:22:03 Europe/Berlin] Arquivo criado com sucesso. Tamanho: 4772
+[25-May-2025 14:22:03 Europe/Berlin] Foto atualizada com sucesso no banco: uploads/perfil/perfil_4.jpg
+[25-May-2025 14:22:17 Europe/Berlin] Iniciando upload de foto
+[25-May-2025 14:22:17 Europe/Berlin] Dados do arquivo: Array
+(
+    [name] => logo.jfif
+    [full_path] => logo.jfif
+    [type] => image/jpeg
+    [tmp_name] => C:\xampp\tmp\php81EC.tmp
+    [error] => 0
+    [size] => 180268
+)
+
+[25-May-2025 14:22:24 Europe/Berlin] Iniciando upload de foto
+[25-May-2025 14:22:24 Europe/Berlin] Dados do arquivo: Array
+(
+    [name] => perfil.jpg
+    [full_path] => perfil.jpg
+    [type] => image/jpeg
+    [tmp_name] => C:\xampp\tmp\php9CA9.tmp
+    [error] => 0
+    [size] => 18515
+)
+
+[25-May-2025 14:22:24 Europe/Berlin] Caminho do arquivo: uploads/perfil/perfil_4.jpg
+[25-May-2025 14:22:24 Europe/Berlin] Tentando remover foto antiga: uploads/perfil/perfil_4.jpg
+[25-May-2025 14:22:24 Europe/Berlin] Tentando mover arquivo para: uploads/perfil/perfil_4.jpg
+[25-May-2025 14:22:24 Europe/Berlin] Arquivo criado com sucesso. Tamanho: 18515
+[25-May-2025 14:22:24 Europe/Berlin] Foto atualizada com sucesso no banco: uploads/perfil/perfil_4.jpg
+[25-May-2025 14:24:57 Europe/Berlin] Iniciando upload de foto
+[25-May-2025 14:24:57 Europe/Berlin] Dados do arquivo: Array
+(
+    [name] => lb.jpg
+    [full_path] => lb.jpg
+    [type] => image/jpeg
+    [tmp_name] => C:\xampp\tmp\phpF2CF.tmp
+    [error] => 0
+    [size] => 4772
+)
+
+[25-May-2025 14:24:57 Europe/Berlin] Caminho do arquivo: uploads/perfil/perfil_4.jpg
+[25-May-2025 14:24:57 Europe/Berlin] Removendo foto antiga: uploads/perfil/perfil_4.jpg
+[25-May-2025 14:24:57 Europe/Berlin] Foto antiga removida com sucesso: uploads/perfil/perfil_4.jpg
+[25-May-2025 14:24:57 Europe/Berlin] Tentando mover arquivo para: uploads/perfil/perfil_4.jpg
+[25-May-2025 14:24:57 Europe/Berlin] Arquivo criado com sucesso. Tamanho: 4772
+[25-May-2025 14:24:57 Europe/Berlin] Foto atualizada com sucesso no banco: uploads/perfil/perfil_4.jpg
+[25-May-2025 14:24:57 Europe/Berlin] Dados do usuário após atualização: Array
+(
+    [id] => 4
+    [0] => 4
+    [nome] => LUCAS DA CRUZ BLANK
+    [1] => LUCAS DA CRUZ BLANK
+    [email] => lucasblank1@outlook.com
+    [2] => lucasblank1@outlook.com
+    [senha] => $2y$10$z4169GoHt5yuQ9F8k5vqd.F9LIziTYFWwd5VSJcx68isOmvhVR2SW
+    [3] => $2y$10$z4169GoHt5yuQ9F8k5vqd.F9LIziTYFWwd5VSJcx68isOmvhVR2SW
+    [foto_perfil] => uploads/perfil/perfil_4.jpg
+    [4] => uploads/perfil/perfil_4.jpg
+    [data_cadastro] => 2025-05-19 13:05:12
+    [5] => 2025-05-19 13:05:12
+    [total_pontos] => 30
+    [6] => 30
+    [nivel] => iniciante
+    [7] => iniciante
+    [ultimo_login] => 
+    [8] => 
+    [foto] => 
+    [9] => 
+)
+
+[25-May-2025 14:25:17 Europe/Berlin] Iniciando salvamento do resultado do quiz
+[25-May-2025 14:25:17 Europe/Berlin] Dados brutos recebidos: {"nivel":"facil","acertos":0,"erros":3,"tempo_gasto":0}
+[25-May-2025 14:25:17 Europe/Berlin] Dados decodificados: Array
+(
+    [nivel] => facil
+    [acertos] => 0
+    [erros] => 3
+    [tempo_gasto] => 0
+)
+
+[25-May-2025 14:25:17 Europe/Berlin] Pontuação calculada: 0
+[25-May-2025 14:25:17 Europe/Berlin] Dados para inserção: Array
+(
+    [usuario_id] => 4
+    [nivel] => facil
+    [pontuacao] => 0
+    [tempo_gasto] => 0
+    [acertos] => 0
+    [erros] => 3
+)
+
+[25-May-2025 14:25:17 Europe/Berlin] Resultado do quiz salvo com sucesso
